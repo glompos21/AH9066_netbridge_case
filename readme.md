@@ -11,7 +11,8 @@ A simple 3D print case for the AH9066
 ## Extra Parts
 - 4 x hex screw M3x8mm
 - 4 x M3 heat insert
-
+optimal
+- [USBC adapter female](https://www.aliexpress.com/item/1005007148475800.html)
 Build with Freecad v1.1dev
 
 
